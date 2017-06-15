@@ -1,5 +1,5 @@
 # WebScrapingWithPython2.7
-　　This article is about Web Scraping With Python2.7. The Catalog is below:
+　　This article is about Web Scraping With Python2.7. Below is a catalog:
 ## 一、简介
 ### （一）前言
 ### （二）pip install 常见错误处理
